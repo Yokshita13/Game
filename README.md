@@ -4,9 +4,9 @@
 This repository contains a collection of classic games. Enjoy playing and learning from these well-known games, including Snake, Tic-Tac-Toe, and Rock Paper Scissor.
 
 ## Features
-1. 🐍 Snake Game: Guide the snake to eat food and grow longer. Avoid crashing into walls or yourself!
-2. ❌⭕ Tic-Tac-Toe: Challenge a friend in this two-player game. Aim to get three in a row, column, or diagonal.
-3. ✊✋✌️ Rock Paper Scissors: Play against the computer in this classic game of chance and strategy.
+1.  Snake Game: Guide the snake to eat food and grow longer. Avoid crashing into walls or yourself!
+2.  Tic-Tac-Toe: Challenge a friend in this two-player game. Aim to get three in a row, column, or diagonal.
+3.  Rock Paper Scissors: Play against the computer in this classic game of chance and strategy.
 
 ## Installation
    Clone the repository:
@@ -21,10 +21,3 @@ python tic_tac_toe_game.py
 
 3. Rock Paper Scissors:
 Open `rock_paper_scissors.html` in your web browser.
-
-## Contributing
-   Fork the repository.
-   Create a new branch (git checkout -b feature-branch).
-   Commit your changes (git commit -m 'Add some feature').
-   Push to the branch (git push origin feature-branch).
-   Create a Pull Request.
