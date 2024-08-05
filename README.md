@@ -13,7 +13,18 @@ This repository contains a collection of classic games. Enjoy playing and learni
    git clone https://github.com/Yokshita13/Game.git
 
 ## Usage
-1. Snake Game: snake_game.py
-2. Tic-Tac-Toe: tic_tac_toe_game.py
+1. Snake Game:
+python snake_game.py
+
+2. Tic-Tac-Toe: 
+python tic_tac_toe_game.py
+
 3. Rock Paper Scissors:
 Open `rock_paper_scissors.html` in your web browser.
+
+## Contributing
+   Fork the repository.
+   Create a new branch (git checkout -b feature-branch).
+   Commit your changes (git commit -m 'Add some feature').
+   Push to the branch (git push origin feature-branch).
+   Create a Pull Request.
