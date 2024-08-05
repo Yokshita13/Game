@@ -1,7 +1,7 @@
 # 🎮 Game Repository 🎮
 
 ## Overview
-This repository contains a collection of classic games implemented in Python. Enjoy playing and learning from these well-known games, including Snake, Tic-Tac-Toe, and Rock Paper Scissor.
+This repository contains a collection of classic games. Enjoy playing and learning from these well-known games, including Snake, Tic-Tac-Toe, and Rock Paper Scissor.
 
 ## Features
 1. 🐍 Snake Game: Guide the snake to eat food and grow longer. Avoid crashing into walls or yourself!
@@ -12,3 +12,8 @@ This repository contains a collection of classic games implemented in Python. En
    Clone the repository:
    git clone https://github.com/Yokshita13/Game.git
 
+## Usage
+1. Snake Game: snake_game.py
+2. Tic-Tac-Toe: tic_tac_toe_game.py
+3. Rock Paper Scissors:
+Open `rock_paper_scissors.html` in your web browser.
